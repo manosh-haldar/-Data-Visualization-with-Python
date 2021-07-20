@@ -2,7 +2,7 @@
 
 Data set reference: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 
-This dataset has different features of Huyndai cars. An exmpanation of the features is as below,
+This dataset has different features of Huyndai cars. An exmpanation of the features are as follows,
 
 1. **Model:** Different model names provided my the manufacturer. This column has categorical type data
 2. **Year:** Manufacturing year or the year when it was introducted in the market. This column has integer type data.
